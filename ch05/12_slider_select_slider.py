@@ -8,6 +8,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import train_test_split, RandomizedSearchCV
 from sklearn.metrics import r2_score, mean_absolute_error
 import plotly.graph_objects as go
+
 @st.cache_data
 def load_data():
     # 데이터 불러오기

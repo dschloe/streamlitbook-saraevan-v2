@@ -26,7 +26,7 @@ def main():
           <td>데이터 분석가</td>
         </tr>
         <tr>
-          <td>Sarah</td>
+          <td>Sara</td>
           <td>25</td>
           <td>프로덕트 오너</td>
         </tr>
