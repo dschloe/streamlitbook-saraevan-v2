@@ -1,6 +1,7 @@
 ## 교재 구매
 - 판매링크
-  + 부크크 : https://www.bookk.co.kr/book/view/173250
+  + 부크크 (전자책) : https://bookk.co.kr/bookStore/658633d9003feb8d1d05406a
+  + 부크크 (종이책) : https://bookk.co.kr/bookStore/6586331b003feb8d1d053378
   + 교보문고 : TBD
   + 예스 24 : TBD
   + 알라딘 : TBD
