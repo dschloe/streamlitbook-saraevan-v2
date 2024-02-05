@@ -1,11 +1,11 @@
 ## 교재 구매
 - 판매링크
-  + 부크크 (전자책) : https://bookk.co.kr/bookStore/658633d9003feb8d1d05406a
   + 부크크 (종이책) : https://bookk.co.kr/bookStore/6586331b003feb8d1d053378
+  + 부크크 (PDF) : https://bookk.co.kr/bookStore/658633d9003feb8d1d05406a
   + 교보문고 : TBD
-  + 예스 24 : TBD
-  + 알라딘 : TBD
-  + 북센 : TBD
+  + 예스 24 : https://www.yes24.com/Product/Goods/124625310
+  + 알라딘 : http://aladin.kr/p/UQUv5
+  + 책소개 : https://dschloe.github.io/ds-projects/2024/01/book_intro/
 ![](book.png)
 
 - 오프라인에서는 판매되지 않습니다. 
@@ -72,7 +72,7 @@ streamlit run app.py
 - Evan : jhjung@dschloe.com
 
 ## 온라인 강의
-- Youtube : https://www.youtube.com/@darkgreenchloeJJ-pe6gq
+- Youtube : https://www.youtube.com/@darkgreenchloeJJ-pe6gq / 공저자 홍보 : https://youtu.be/uLR1RNqJ1Mw?t=0s
 - Udemy : https://www.udemy.com/course/st-dashboard/?referralCode=A570882A38B5A438FB7E
 
 ## License
