@@ -74,6 +74,7 @@ streamlit run app.py
 ## 온라인 강의
 - Youtube : https://www.youtube.com/@darkgreenchloeJJ-pe6gq / 공저자 홍보 : https://youtu.be/uLR1RNqJ1Mw?t=0s
 - Udemy : https://www.udemy.com/course/st-dashboard/?referralCode=A570882A38B5A438FB7E
+- 인프런 : https://inf.run/YPniH
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
