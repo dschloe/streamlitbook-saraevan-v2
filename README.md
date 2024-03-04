@@ -2,7 +2,7 @@
 - 판매링크
   + 부크크 (종이책) : https://bookk.co.kr/bookStore/6586331b003feb8d1d053378
   + 부크크 (PDF) : https://bookk.co.kr/bookStore/658633d9003feb8d1d05406a
-  + 교보문고 : TBD
+  + 교보문고 : https://product.kyobobook.co.kr/detail/S000212384559
   + 예스 24 : https://www.yes24.com/Product/Goods/124625310
   + 알라딘 : http://aladin.kr/p/UQUv5
   + 책소개 : https://dschloe.github.io/ds-projects/2024/01/book_intro/
