@@ -68,11 +68,10 @@ streamlit run app.py
 
 ## 코드 에러 문의 
 - `권장방법` : 메뉴 `Issues`-`New Issues`-`메모 남기기`-`Submit new issue`
-- Sara : tkfk418@naver.com
 - Evan : jhjung@dschloe.com
 
 ## 온라인 강의
-- Youtube : https://www.youtube.com/@darkgreenchloeJJ-pe6gq / 공저자 홍보 : https://youtu.be/uLR1RNqJ1Mw?t=0s
+- Youtube : https://www.youtube.com/@darkgreenchloeJJ-pe6gq 
 - Udemy : https://www.udemy.com/course/st-dashboard/?referralCode=A570882A38B5A438FB7E
 - 인프런 : https://inf.run/YPniH
 
